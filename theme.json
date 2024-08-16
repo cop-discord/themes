@@ -175,8 +175,8 @@
     "WHITE_630": "#000000"
   },
   "background": {
-    "blur": "5.0",
+    "blur": "1.0",
     "url": "https://embeds.rival.rocks/bg.jpg",
-    "alpha": "3.0"
+    "alpha": "1.0"
   }
 }
